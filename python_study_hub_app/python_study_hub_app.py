@@ -2,6 +2,7 @@ import reflex as rx
 
 from python_study_hub_app.pages.home import home
 from python_study_hub_app.pages.about import about
+
 from python_study_hub_app.layouts.main import main_layout
 
 app = rx.App()
