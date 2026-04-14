@@ -1,0 +1,17 @@
+*.db
+.states
+.web
+*.py[cod]
+assets/external/
+# 仮想環境
+.venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# 環境変数
+.env
+
+# OSファイル
+.DS_Store
