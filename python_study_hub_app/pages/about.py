@@ -44,5 +44,5 @@ def about() -> rx.Component:
             bg="gray",
             width="400px",
         ),
-        height="100vh",
+        height="100%"
     )

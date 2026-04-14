@@ -6,5 +6,5 @@ def home() -> rx.Component:
             rx.heading("Home Page"),
             rx.text("これはホームです"),
         ),
-        height="100vh",
+        height="100%"
     )

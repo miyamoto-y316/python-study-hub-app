@@ -5,6 +5,7 @@ def sidebar() -> rx.Component:
         rx.heading("Menu", size="5"),
         rx.link("Home", href="/"),
         rx.link("About", href="/about"),
+        rx.link("Quiz", href="/quiz"),
         spacing="3",
         width="200px",
         padding="1em",
